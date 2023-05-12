@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone Number:</string>
+    <string name="pax">Number of Pax:</string>
+    <string name="date">Date:</string>
+    <string name="Time">Time:</string>
+    <string name="Smoking">Smoking Area</string>
+    <string name="Non_Smoking">Non-Smoking Area</string>
+    <string name="Reset">Reset</string>
+    <string name="Confirm">Confirm</string>
+
+</resources>
